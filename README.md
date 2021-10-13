@@ -1,3 +1,1 @@
-# Markdown File
-
-A simple trading application to track stocks traded on a users portfolio.
+# A simple trading application to track stocks traded on a users portfolio.
